@@ -76,4 +76,4 @@ chmod +x script1_identity.sh script2_inspector.sh script3_auditor.sh script4_ana
 ---
 
 ## Conclusion
-[cite_start]This audit concludes that Python’s massive ecosystem and zero-cost barrier make it the industry standard for modern web scaling and AI. While proprietary alternatives like MATLAB offer centralized support for high-stakes engineering, Python’s community-driven model provides unmatched versatility and transparency.
+This audit concludes that Python’s massive ecosystem and zero-cost barrier make it the industry standard for modern web scaling and AI. While proprietary alternatives like MATLAB offer centralized support for high-stakes engineering, Python’s community-driven model provides unmatched versatility and transparency.
