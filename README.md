@@ -1,5 +1,9 @@
 # README.md
 
+**Student:** Rithika  
+**Registration Number:** 24BA110038  
+**Software Chosen:** Python  
+
 ## Project Overview
 
 This project is a comprehensive audit of **Python** as an open-source software (OSS) project. The report covers the origin, philosophy, licensing, ethics, and Linux footprint of Python, alongside five practical shell scripts for system administration.
