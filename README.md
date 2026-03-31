@@ -46,7 +46,7 @@ The project features five Bash scripts designed for Linux environment auditing:
 ### 1. Setup
 Clone the repository and navigate to the directory:
 ```bash
-git clone https://github.com/CrazyScientist1901/oss-audit-24BA110038.git
+git clone https://github.com/CrazyScientist1901/oss-audit-24BAI10038.git
 cd oss-audit-24BA110038
 ```
 
